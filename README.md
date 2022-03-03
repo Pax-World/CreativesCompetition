@@ -23,7 +23,7 @@ A panel of judges will rate each submitted piece and decide on a winner.
 The top three submissions for that week may be asked to submit their native files. 
 
 
-## what and Where to download everything ##
+## what and where to download everything ##
 
 Download the project file from GitHub here.
 
@@ -48,7 +48,7 @@ For Unity, download version 2019.4.13f1. You can get it here:
 === VIOLATIONS OF ANY OF THE GUIDELINES WILL RESULT IN A DISQUALIFICATION AND YOUR REWARD WILL BE VOIDED ===   
 
 
-## additional Help ##
+## additional help ##
 If you run into any issues, would like more clarification on guidelines, or advice from other creators please reach out to our socials:
 	Telegram: https://t.me/PAXworldOFFICIAL
 	Discord: https://discord.gg/vhnm6Bkm
