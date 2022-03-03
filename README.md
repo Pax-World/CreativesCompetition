@@ -8,7 +8,7 @@ This is the next step in the evolution of communication in the metaverse. Here y
 Create unique moments by exploring, building, learning, trading, and doing so much more. The possibilities are infinite.  
 
 
-## Ready to Begin? ##
+## ready to begin? ##
 
 Follow these simple steps if you’re ready to win some highly sought-after land.
 	1. Download the Blender or Unity scene from github (you're right here)
@@ -23,7 +23,7 @@ A panel of judges will rate each submitted piece and decide on a winner.
 The top three submissions for that week may be asked to submit their native files. 
 
 
-## What and Where to Download Everything ##
+## what and Where to download everything ##
 
 Download the project file from GitHub here.
 
@@ -33,7 +33,7 @@ Our template file was done in Blender version 3.0. But you probably won't have i
 For Unity, download version 2019.4.13f1. You can get it here:
 	https://unity3d.com/get-unity/download/archive
 
-## Guidelines ##
+## guidelines ##
 
 - Make sure that objects are not higher than 40m or 130ft within your scene
 - Your scene is limited to 10,000 polys, excluding objects provided within the template scene
@@ -48,7 +48,7 @@ For Unity, download version 2019.4.13f1. You can get it here:
 === VIOLATIONS OF ANY OF THE GUIDELINES WILL RESULT IN A DISQUALIFICATION AND YOUR REWARD WILL BE VOIDED ===   
 
 
-## Additional Help ##
+## additional Help ##
 If you run into any issues, would like more clarification on guidelines, or advice from other creators please reach out to our socials:
 	Telegram: https://t.me/PAXworldOFFICIAL
 	Discord: https://discord.gg/vhnm6Bkm
