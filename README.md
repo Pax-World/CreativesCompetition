@@ -1,5 +1,5 @@
 # pax.world Creatives Competition
-Pax.world is hosting our Creatives Competition open to 3D artists of all skill levels.  Your goal, should you choose to accept, is to utilize a scene from our world and use your imagination to create something out of this world.  Inspiration from music, cinema, literature, nature, fashion, gaming, and education are all welcome.  A winner will be chosen at the end of the two-week competition period with the first-place winner receiving a highly limited availability plot of land within our metaverse world.  All that is required to participate is access to the free software's Blender or Unity.
+Pax.world is hosting our Creatives Competition open to 3D artists of all skill levels.  Your goal, should you choose to accept, is to utilize a scene from our world and use your imagination to create something out of this world.  Inspiration from music, cinema, literature, nature, fashion, gaming, and education are all welcome.  A winner will be chosen at the end of the two-week competition period with the first-place winner receiving a highly limited availability plot of land within our metaverse world.  All that is required to participate is access to the free softwares Blender or Unity.
 
 ##  about pax.world ##
 
@@ -40,7 +40,7 @@ For Unity, download version 2019.4.13f1. You can get it here:
 - Texture sizes should be no more than 1024 X 1024 pixels
 - Creators are free to create animations within their scenes (like our streetlights in from the template). For this you'll want to use FBX files the most
 - Feel free to remove any of our objects from the template you don't want them in your scene but please keep the background as is 
-- Only utilize cameras provided within the scene downloaded from GitHub, if your scene can't fit in the 
+- Only utilize cameras provided within the scene downloaded from GitHub.
 - Use your own artistic integrity in creating your scene with your own content. Do not use copyrighted content or content you do not own yourself. Royalty-free assets are allowed. 
 - Be as creative as you’d like with all competitions. 
 - The submission window will close two weeks after the announcement date at 12am CET
