@@ -11,7 +11,7 @@ Create unique moments by exploring, building, learning, trading, and doing so mu
 ## ready to begin? ##
 
 Follow these simple steps if you’re ready to win some highly sought-after land.
-	1. Download the Blender or Unity scene from github (you're right here)
+	1. Download the Blender file or Unity scene separted into 3 files from github (you're right here)
 	2. Use your creativity and make something truly eye-catching within the scene tile boundaries
 	3. Once you are happy with your creation use Blender to render your scene or just take a screenshot from the predefined camera in Unity 
 	4. Post your render to Twitter and tag us @paxworldteam and use the hashtag #paxcreate
