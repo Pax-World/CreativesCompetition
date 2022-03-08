@@ -10,17 +10,21 @@ Create unique moments by exploring, building, learning, trading, and doing so mu
 
 ## ready to begin? ##
 
-Follow these simple steps if you’re ready to win some highly sought-after land.
-	1. Download the Blender file or Unity scene separted into 3 files from github (you're right here)
-	2. Use your creativity and make something truly eye-catching within the scene tile boundaries
-	3. Once you are happy with your creation use Blender to render your scene or just take a screenshot from the predefined camera in Unity 
-	4. Post your render to Twitter and tag us @paxworldteam and use the hashtag #paxcreate
-  5. Follow us on our socials 
+Follow these simple steps if you’re ready to win a highly sought-after piece of land.
 
-When a new competition begins, creators will have two weeks from the day of the announcement to create their masterpiece.
-At 12am CET the submission window will close, any submissions after 12am CET will not be considered for review. 
-A panel of judges will rate each submitted piece and decide on a winner.
-The top three submissions for that week may be asked to submit their native files. 
+1. Download the Blender file or Unity scene separated into 3 files from github (you're right here)
+
+2. Use your creativity and make something truly eye-catching within the scene tile boundaries
+
+3. Follow the guidelines listed below to be eligible to participate in the competition
+
+4. Once you are happy with your creation use Blender to render your scene or just take a screenshot from the predefined camera in Unity
+
+5. Post your render to Twitter and tag us at @paxworldteam and use the hashtag #paxcreate
+
+6. Go to this form here (add a link to https://zw38ubv5x9l.typeform.com/to/dpOMDYhr) and enter your email and a link to your tweet
+
+You have until the 3rd of April 2022 end of day to hand in your masterpiece. A panel of judges from the pax.world team will rate each submitted piece and decide on the winners. The top 5 submissions will be asked to submit their native files and will in return win a free piece of land.
 
 
 ## what and where to download everything ##
